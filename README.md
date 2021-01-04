@@ -1,1 +1,1 @@
-# Machine-Learning-and-the-future-of-js
+# Machine-Learning-and-the-future-of-Javascript
